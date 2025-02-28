@@ -1,10 +1,10 @@
-# Portfolio
+# Galeria com GRID
 
 ![](./img/galeria.png)
 
 ## Projeto
 
-Galeria criada utilizando GRID
+Galeria criada utilizando GRID no curso do SENAI Jandira
 
 ## Tecnologias
 
